@@ -1,88 +1,61 @@
 <div align="center">
 
-```
-$ whoami
-```
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=26&duration=3000&pause=1000&color=2EE6A6&center=true&vCenter=true&width=600&lines=Puyal+Arasan+P;Backend+%26+Full+Stack+Developer;Final-Year+CSE+Undergraduate" alt="Typing SVG" />
 
-# Puyal Arasan P
+<br>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=2EE6A6&center=true&vCenter=true&width=600&lines=Final-Year+CSE+Undergraduate;Backend+%26+Full+Stack+Developer;Building+market-intelligence-dashboard;Open+to+Internships+%26+Entry-Level+Roles" alt="Typing SVG" />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/puyalarasan)
+[![Email](https://img.shields.io/badge/Email-2EE6A6?style=flat-square&logo=gmail&logoColor=white)](mailto:puyalarsan07@gmail.com)
 
 </div>
 
 <br>
 
-```python
-class PuyalArasan:
-    def __init__(self):
-        self.role         = "Backend & Full Stack Developer (in training)"
-        self.education    = "B.E. CSE, Meenakshi College of Engineering (2023–2027)"
-        self.cgpa         = 7.8
-        self.languages    = ["Python", "Java", "JavaScript", "SQL"]
-        self.web          = ["HTML5", "CSS3"]
-        self.databases    = ["MySQL", "Firebase"]
-        self.tools        = ["Git", "GitHub", "Maven", "Jenkins", "Ansible"]
-        self.currently_learning = "Data Structures & Algorithms"
-        self.looking_for  = "Full Stack / Backend Development Internship"
+### About
 
-    def say_hi(self):
-        print("Thanks for stopping by — let's build something.")
-
-me = PuyalArasan()
-me.say_hi()
-```
+Final-year CS undergraduate (CGPA 7.8) focused on backend and full-stack development. I recently interned building **market-intelligence-dashboard** — a Python/Streamlit analytics platform for social listening and brand monitoring. Currently deepening my DSA and looking for my next internship or entry-level role.
 
 <br>
 
-```
-$ cat career_goals.txt
-```
-> Seeking an internship or entry-level role where I can apply backend and
-> full-stack skills to real-world problems, grow into a proficient
-> software engineer, and ship things that actually get used.
+### Stack
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=python,java,js,html,css,mysql,firebase,git,github,jenkins,ansible,maven" />
+</div>
 
 <br>
 
-```
-$ git log --oneline --graph my-journey
-```
-```
-* 2023  → Started B.E. CSE @ Meenakshi College of Engineering
-* 2024  → Learned Python, Java, SQL fundamentals
-* 2025  → Strengthened backend & database fundamentals
-* 2026  → Interned & built market-intelligence-dashboard (Python, Streamlit)
-* NOW   → Sharpening DSA, looking for my next opportunity
-```
-
-<br>
-
-```
-$ ls ~/projects
-```
-
-**📊 market-intelligence-dashboard**
-Social listening & analytics platform built during my internship — a multi-page dashboard for monitoring brand mentions, spotting trend spikes, and benchmarking against competitors.
-`Python` `Streamlit` `Data Analytics` `Dashboard`
-
-→ [view repo](https://github.com/puyalarasan/market-intelligence-dashboard)
-
-<br>
-
-```
-$ curl -s puyalarasan.dev/contact
-```
+### Featured Project
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/-linkedin.com/in/puyalarasan-000?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/puyalarasan)
-[![Email](https://img.shields.io/badge/-puyalarsan07@gmail.com-000?style=flat-square&logo=gmail&logoColor=white)](mailto:puyalarsan07@gmail.com)
+[![Market Intelligence Dashboard](https://github-readme-stats.vercel.app/api/pin/?username=puyalarasan&repo=market-intelligence-dashboard&theme=default&hide_border=true)](https://github.com/puyalarasan/market-intelligence-dashboard)
 
+</div>
+
+A multi-page social listening and analytics dashboard built during my internship — brand mention monitoring, trend spike detection, and competitor benchmarking.
+
+<br>
+
+### GitHub Stats
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=puyalarasan&show_icons=true&theme=default&hide_border=true&count_private=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=puyalarasan&layout=compact&theme=default&hide_border=true" height="165"/>
 </div>
 
 <br>
 
-```
-$ echo "Thanks for reading — always down to collaborate on backend/full-stack projects."
-```
+### Contribution Graph
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=puyalarasan&theme=minimal&hide_border=true" />
+</div>
+
+<br>
+
+<div align="center">
+
+*Open to Full Stack / Backend Development internships and entry-level roles — feel free to connect.*
 
 </div>
