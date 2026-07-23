@@ -6,11 +6,7 @@ $ whoami
 
 # Puyal Arasan P
 
-```
-> Final-year CSE Undergraduate
-> Booting career.exe...
-> Status: Open to Internships & Entry-Level Roles
-```
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=2EE6A6&center=true&vCenter=true&width=600&lines=Final-Year+CSE+Undergraduate;Backend+%26+Full+Stack+Developer;Building+market-intelligence-dashboard;Open+to+Internships+%26+Entry-Level+Roles" alt="Typing SVG" />
 
 </div>
 
