@@ -29,28 +29,13 @@ Final-year CS undergraduate (CGPA 7.8) focused on backend and full-stack develop
 
 <div align="center">
 
-[![Market Intelligence Dashboard](https://github-readme-stats.vercel.app/api/pin/?username=puyalarasan&repo=market-intelligence-dashboard&theme=default&hide_border=true)](https://github.com/puyalarasan/market-intelligence-dashboard)
+**[market-intelligence-dashboard](https://github.com/puyalarasan/market-intelligence-dashboard)**
 
 </div>
 
 A multi-page social listening and analytics dashboard built during my internship — brand mention monitoring, trend spike detection, and competitor benchmarking.
 
-<br>
-
-### GitHub Stats
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=puyalarasan&show_icons=true&theme=default&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=puyalarasan&layout=compact&theme=default&hide_border=true" height="165"/>
-</div>
-
-<br>
-
-### Contribution Graph
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=puyalarasan&theme=minimal&hide_border=true" />
-</div>
+`Python` `Streamlit` `Data Analytics`
 
 <br>
 
